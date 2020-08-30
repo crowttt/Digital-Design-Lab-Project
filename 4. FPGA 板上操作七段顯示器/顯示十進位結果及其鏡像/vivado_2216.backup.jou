@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:22 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Mon Apr 20 18:57:56 2020
+# Process ID: 2216
+# Current directory: D:/DDLAB/DDLab4/DDLab4_HW
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent6392 D:\DDLAB\DDLab4\DDLab4_HW\DDLab4_HW.xpr
+# Log file: D:/DDLAB/DDLab4/DDLab4_HW/vivado.log
+# Journal file: D:/DDLAB/DDLab4/DDLab4_HW\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/DDLAB/DDLab4/DDLab4_HW/DDLab4_HW.xpr
+update_compile_order -fileset sources_1
+open_hw
+connect_hw_server
+open_hw_target
+set_property PROGRAM.FILE {D:/DDLAB/DDLab4/DDLab4_HW/DDLab4_HW.runs/impl_1/top.bit} [get_hw_devices xc7a100t_0]
+current_hw_device [get_hw_devices xc7a100t_0]
+refresh_hw_device -update_hw_probes false [lindex [get_hw_devices xc7a100t_0] 0]
+set_property PROBES.FILE {} [get_hw_devices xc7a100t_0]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7a100t_0]
+set_property PROGRAM.FILE {D:/DDLAB/DDLab4/DDLab4_HW/DDLab4_HW.runs/impl_1/top.bit} [get_hw_devices xc7a100t_0]
+program_hw_devices [get_hw_devices xc7a100t_0]
+refresh_hw_device [lindex [get_hw_devices xc7a100t_0] 0]
