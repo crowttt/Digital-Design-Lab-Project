@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:22 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Sun Aug 30 13:53:46 2020
+# Process ID: 14328
+# Current directory: C:/Users/uiser/Desktop/DDLAB/9. 實作8 x 8 Serial Radix-4 Booth有號數乘法器/demo/HW2/booth
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12128 C:\Users\uiser\Desktop\DDLAB\9. 實作8 x 8 Serial Radix-4 Booth有號數乘法器\demo\HW2\booth\booth.xpr
+# Log file: C:/Users/uiser/Desktop/DDLAB/9. 實作8 x 8 Serial Radix-4 Booth有號數乘法器/demo/HW2/booth/vivado.log
+# Journal file: C:/Users/uiser/Desktop/DDLAB/9. 實作8 x 8 Serial Radix-4 Booth有號數乘法器/demo/HW2/booth\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/uiser/Desktop/DDLAB/9. 實作8 x 8 Serial Radix-4 Booth有號數乘法器/demo/HW2/booth/booth.xpr}
+update_compile_order -fileset sources_1
