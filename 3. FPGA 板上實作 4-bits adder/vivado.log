@@ -1,0 +1,30 @@
+#-----------------------------------------------------------
+# Vivado v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:22 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Sat Apr 11 23:49:57 2020
+# Process ID: 14808
+# Current directory: D:/DDLAB/DDlab3
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent10764 D:\DDLAB\DDlab3\DDlab3.xpr
+# Log file: D:/DDLAB/DDlab3/vivado.log
+# Journal file: D:/DDLAB/DDlab3\vivado.jou
+#-----------------------------------------------------------
+start_guopen_project D:/DDLAB/DDlab3/DDlab3.xpr
+Scanning sources...
+FiFinished scanning sourceININFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specifieININFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx/Vivado/2017.3/data/ip'opopen_project: Time (s): cpu = 00:00:20 ; elapsed = 00:00:33 . Memory (MB): peak = 846.133 ; gain = 92.15upupdate_compile_order -fileset sources_open_hw
+connect_hw_server
+INFO: [Labtools 27-2285] Connecting to hw_server url TCP:localhost:3121
+INFO: [Labtools 27-2222] Launching hw_server...
+INFO: [Common 17-41] Interrupt caught. Command should exit soon.
+INFO: [Labtools 27-2221] Launch Output:
+
+****** Xilinx hw_server v2017.3
+  **** Build date : Oct  4 2017-20:12:17
+    ** Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+
+
+INFO: [Labtools 27-2058] connect_hw_server command cancelled.
+INFO: [Common 17-344] 'connect_hw_server' was cancelled
+exit
+INFO: [Common 17-206] Exiting Vivado at Sat Apr 11 23:57:40 2020...
