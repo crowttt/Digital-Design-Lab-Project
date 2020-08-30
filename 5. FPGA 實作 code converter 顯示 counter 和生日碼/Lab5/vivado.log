@@ -1,0 +1,21 @@
+#-----------------------------------------------------------
+# Vivado v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:22 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Sun Aug 30 13:39:21 2020
+# Process ID: 17004
+# Current directory: D:/DDLAB/FPGA 實作 code converter 顯示 counter 和生日碼/Lab5
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent17868 D:\DDLAB\FPGA 實作 code converter 顯示 counter 和生日碼\Lab5\Lab5.xpr
+# Log file: D:/DDLAB/FPGA 實作 code converter 顯示 counter 和生日碼/Lab5/vivado.log
+# Journal file: D:/DDLAB/FPGA 實作 code converter 顯示 counter 和生日碼/Lab5\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/DDLAB/FPGA 實作 code converter 顯示 counter 和生日碼/Lab5/Lab5.xpr}
+INFO: [Project 1-313] Project file moved from 'D:/DDLAB/DDLab5/Lab5' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx/Vivado/2017.3/data/ip'.
+open_project: Time (s): cpu = 00:00:16 ; elapsed = 00:00:09 . Memory (MB): peak = 813.684 ; gain = 62.598
+update_compile_order -fileset sources_1

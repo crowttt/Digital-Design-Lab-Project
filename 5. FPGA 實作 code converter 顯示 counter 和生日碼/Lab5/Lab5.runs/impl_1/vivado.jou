@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:22 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Thu Apr 23 11:45:29 2020
+# Process ID: 224
+# Current directory: D:/DDLAB/DDLab5/Lab5/Lab5.runs/impl_1
+# Command line: vivado.exe -log seven_seg_birthday.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source seven_seg_birthday.tcl -notrace
+# Log file: D:/DDLAB/DDLab5/Lab5/Lab5.runs/impl_1/seven_seg_birthday.vdi
+# Journal file: D:/DDLAB/DDLab5/Lab5/Lab5.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source seven_seg_birthday.tcl -notrace
